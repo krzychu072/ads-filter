@@ -1,0 +1,2 @@
+wpimg.pl
+v.wpimg.pl
