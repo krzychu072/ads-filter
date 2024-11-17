@@ -1,2 +1,2 @@
-wpimg.pl
-v.wpimg.pl
+0.0.0.0 wpimg.pl
+0.0.0.0 v.wpimg.pl
